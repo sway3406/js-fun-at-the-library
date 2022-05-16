@@ -77,7 +77,7 @@ O. Found the book, checked the title && bookGenre ==> checkout book to patron
 S. a) set params
    b) Setup for loop (want to iterate over our bookGenre arrays that are w/in our shelves object
       i) bookTitle.genre needs to be equal to the bookTitle
-if(nameLibrary.shelves.genre.bookTitle === bookTitle)
+  Path --> if(nameLibrary.shelves.genre.bookTitle === bookTitle)
 
 */
 
